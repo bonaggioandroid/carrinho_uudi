@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27944077638",
+    "project_id": "carrinhouudi",
+    "storage_bucket": "carrinhouudi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27944077638:android:7f9b2b2746a94665b53d47",
+        "android_client_info": {
+          "package_name": "com.bonaggioandroid.carrinho_uudi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27944077638-lmag7j4sf5b6uen730tcsr9hr7m180hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWZu8qWtQrSLnC4QITHHlszsrEEQ7Dxtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27944077638-lmag7j4sf5b6uen730tcsr9hr7m180hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
