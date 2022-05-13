@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+
+In this project I used the state manager GETX database firestore database
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
